@@ -20,7 +20,7 @@ python Edge_Detection.py
 ## Input
 
 ![concentric](lion.png)
-![input](Input/spider.png)
+![screenshot](Input/spider.png)
 
 ## Results
 
