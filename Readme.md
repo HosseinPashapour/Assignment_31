@@ -24,8 +24,8 @@ python Edge_Detection.py
 
 ## Results
 
-![output](output\Result_lion.jpg)
-![output](output\Result_Spider.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Result_lion.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Result_Spider.jpg)
 
 ------------------------------------------------------
 
@@ -48,12 +48,12 @@ python Foreground_Focus.py
 ```
 ## Input
 
-![input](input\flower.jpg)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/flower.jpg)
 
 
 ## Results
 
-![output](output\Flower.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Flower.png)
 
 ------------------------------------------------------
 
