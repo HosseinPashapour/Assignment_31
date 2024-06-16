@@ -19,8 +19,8 @@ python Edge_Detection.py
 ```
 ## Input
 
-
-![screenshot](spider.png)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/lion.png)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/spider.png)
 
 ## Results
 
