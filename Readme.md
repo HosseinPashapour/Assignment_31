@@ -76,13 +76,13 @@ python Histogram.py
 
 ## Input
 
-![input](input\Cats.jpeg)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/Cats.jpeg)
 
 ## Results
 
-![output](output\Plt.bar.png)
-![output](output\Plt.hist.png)
-![output](output\Plt.plot.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Plt.bar.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Plt.hist.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Plt.plot.png)
 
 
 
@@ -109,15 +109,15 @@ python Noise_Reduction.py
 
 ## Input
 
-![input](input\xray_noisy.png)
-![input](input\kboard.jpg)
-![input](input\circle.jpg)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/xray_noisy.png)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/kboard.jpg)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/circle.jpg)
 
 ## Results
 
-![output](output\Result_xray_noisy.png)
-![output](output\Result_Board.jpg)
-![output](output\Result_circle.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Result_xray_noisy.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Result_Board.jpg)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Result_circle.jpg)
 
 
 
@@ -141,12 +141,12 @@ python Vertical_&_Horizontal_Edge_Detection.py
 
 ## Input
 
-![input](input\home.png)
+![input](https://github.com/HosseinPashapour/Assignment_31/blob/main/input/home.png)
 
 ## Results
 
-![output](output\Home_Horizental.png)
-![output](output\Home_Vertical.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Home_Horizental.png)
+![output](https://github.com/HosseinPashapour/Assignment_31/blob/main/output/Home_Vertical.png)
 
 
 ------------------------------------------------------
