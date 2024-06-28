@@ -8,14 +8,14 @@ result_V=np.zeros((rows, cols), dtype=np.uint8)
 result_H=np.zeros((rows, cols), dtype=np.uint8)
 
 #filter baray ofoghi
-filter_H=np.array([[-1, -1, -1],
-                   [0, 0, 0],
-                   [1, 1, 1]])
+filter_H=np.array([[-1, 0, 1],
+                   [-1, 0, 1],
+                   [-1, 0, 1]])
 
 #filter baraye amodi
-filter_V=np.array([[2, 0, -2],
-                  [2, 0, -2],
-                  [2, 0, -2]])
+filter_V=np.array([[-1, -1, -1],
+                  [0, 0, 0],
+                  [1, 1, 1]])
  
 
 for i in range(1, rows-1):
